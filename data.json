@@ -1,0 +1,8 @@
+{
+{"type": "Income Jan", "amount": "3000"},
+{"type": "Expense Jan", "amount": "1800"},
+{"type": "Income Feb", "amount": "4000"},
+{"type": "Expense feb", "amount": "2500"},
+{"type": "Income Mar", "amount": "8000"},
+{"type": "Expense Mar", "amount": "7000"}
+}
